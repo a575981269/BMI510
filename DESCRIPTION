@@ -1,0 +1,13 @@
+Package: WeiWang
+Type: Package
+Title: WeiWang final package
+Version: 1.0
+Date: 05/01/2024
+Author: Wei Wang
+Depends: R (>= 3.6.0)
+Description: Some useless R or Rcpp functions for BMI course. 
+License: GPL (>= 2)
+Imports: Rcpp (>= 0.12.16), microbenchmark, knitr, rmarkdown, ggplot2, e1071, class, rvest, xml2, corrplot, bootstrap, DAAG, boot, Ball, parallel
+LinkingTo: Rcpp
+RoxygenNote: 7.0.2
+Suggests: knitr, rmarkdown
